@@ -30,5 +30,5 @@
 
 <h3 align="left">TryHackMe Badge:</h3>
 <p align="left">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/NIKHIL-WR34.png" alt="TryHackMe Badge" />
+    <img src=v<img src="https://tryhackme-badges.s3.amazonaws.com/NikhilWR34.png" alt="Your Image Badge" /> />
 </p>
