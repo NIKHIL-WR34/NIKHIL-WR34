@@ -23,7 +23,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/> </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Burp_Suite_Pro_Logo.png/220px-Burp_Suite_Pro_Logo.png" alt="burpsuite" width="40" height="40"/> </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/icons2/3053/PNG/512/burp_suite_alt_macos_bigsur_icon_190318.png" alt="burpsuite" width="40" height="40"/> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIKHIL-WR34&show_icons=true&locale=en&layout=compact" alt="NIKHIL-WR34" /></p>
