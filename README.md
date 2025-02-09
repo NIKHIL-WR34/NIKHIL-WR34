@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhil-bhandari-n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/NIKHIL-WR34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tryhackme.svg" alt="TryHackMe" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/NIKHIL-WR34" target="blank"><img align="center" src="https://files.svgcdn.io/simple-icons/tryhackme.svg" alt="TryHackMe" height="30" width="40" /></a>
 <a href="https://app.letsdefend.io/user/wlkr_r34" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/LetsDefend_logo.svg/220px-LetsDefend_logo.svg.png" alt="LetsDefend" height="30" width="40" /></a>
 </p>
 
