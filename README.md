@@ -27,8 +27,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIKHIL-WR34&show_icons=true&locale=en&layout=compact" alt="NIKHIL-WR34" /></p>
-
-<h3 align="left">TryHackMe Badge:</h3>
-<p align="left">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/NikhilWR34.png" alt="Your Image Badge"/>
-</p>
